@@ -10,4 +10,6 @@ I want to track what I study/code each day.
 
 ## 11/02/2024
 
-[] Learning Rust/Rocket
+- Studied Leetcode questions
+  - [X] https://leetcode.com/problems/longest-substring-without-repeating-characters/
+- [] Learning Rust/Rocket
