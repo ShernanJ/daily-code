@@ -13,3 +13,8 @@ I want to track what I study/code each day.
 - Studied Leetcode questions
   - [X] https://leetcode.com/problems/longest-substring-without-repeating-characters/
 - [] Learning Rust/Rocket
+
+## 11/03/2024
+
+- Studied leetcode question
+  - [X] https://leetcode.com/problems/rotate-string/
