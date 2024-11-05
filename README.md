@@ -21,3 +21,6 @@ I want to track what I study/code each day.
 
 ## 11/04/2024
 - [X] https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful
+
+## 11/05/2024
+- [X] https://leetcode.com/problems/string-compression-iii/
