@@ -18,3 +18,6 @@ I want to track what I study/code each day.
 
 - Studied leetcode question
   - [X] https://leetcode.com/problems/rotate-string/
+
+## 11/04/2024
+- [X] https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful
