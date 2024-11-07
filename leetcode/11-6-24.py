@@ -6,3 +6,8 @@ class Solution:
             return haystack.find(needle)
         else:
             return -1
+
+class Solution:
+    def strStr(self, haystack: str, needle: str) -> int:
+        return haystack.find(needle)
+      
