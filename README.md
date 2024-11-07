@@ -25,3 +25,6 @@ I want to track what I study/code each day.
 ## 11/05/2024
 - [X] https://leetcode.com/problems/string-compression-iii/
 - [X] https://leetcode.com/problems/string-compression/
+
+## 11/06/2024
+- [X] https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
