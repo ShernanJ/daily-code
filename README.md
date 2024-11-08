@@ -32,6 +32,7 @@ I want to track what I study/code each day.
 
 ## 11/07/2024
 - [X] Create Simple ChatBot with Cohere
+  - https://github.com/ShernanJ/personal-rag-chatbot
   - [X] FastAPI endpoint for message
   - [X] React frontend for chat input
 - [X] https://leetcode.com/problems/search-insert-position/
