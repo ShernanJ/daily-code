@@ -36,3 +36,10 @@ I want to track what I study/code each day.
   - [X] FastAPI endpoint for message
   - [X] React frontend for chat input
 - [X] https://leetcode.com/problems/search-insert-position/
+
+## 11/08/2024
+- Reviewed Previous solved questions
+  - [] https://leetcode.com/problems/reverse-linked-list/
+  - [] https://leetcode.com/problems/merge-two-sorted-lists/
+  - [] https://leetcode.com/problems/min-stack/description/
+  - [] https://leetcode.com/problems/valid-parentheses/
