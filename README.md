@@ -28,3 +28,10 @@ I want to track what I study/code each day.
 
 ## 11/06/2024
 - [X] https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+
+
+## 11/07/2024
+- [X] Create Simple ChatBot with Cohere
+  - [X] FastAPI endpoint for message
+  - [X] React frontend for chat input
+- [X] https://leetcode.com/problems/search-insert-position/
