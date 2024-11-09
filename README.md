@@ -39,7 +39,9 @@ I want to track what I study/code each day.
 
 ## 11/08/2024
 - Reviewed Previous solved questions
-  - [] https://leetcode.com/problems/reverse-linked-list/
-  - [] https://leetcode.com/problems/merge-two-sorted-lists/
+  - [X] https://leetcode.com/problems/reverse-linked-list/
+  - [X] https://leetcode.com/problems/merge-two-sorted-lists/
+  - [X] https://leetcode.com/problems/design-browser-history
+  - [X] https://leetcode.com/problems/design-linked-list/
   - [] https://leetcode.com/problems/min-stack/description/
   - [] https://leetcode.com/problems/valid-parentheses/
