@@ -47,4 +47,7 @@ I want to track what I study/code each day.
   - [] https://leetcode.com/problems/valid-parentheses/
 
 ## 11/09/2024
-- # https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii
+- [X] https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii
+
+## 11/10/2024
+- [X] https://leetcode.com/problems/valid-palindrome/
