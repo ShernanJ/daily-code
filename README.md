@@ -45,3 +45,6 @@ I want to track what I study/code each day.
   - [X] https://leetcode.com/problems/design-linked-list/
   - [] https://leetcode.com/problems/min-stack/description/
   - [] https://leetcode.com/problems/valid-parentheses/
+
+## 11/09/2024
+- # https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii
