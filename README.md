@@ -51,3 +51,6 @@ I want to track what I study/code each day.
 
 ## 11/10/2024
 - [X] https://leetcode.com/problems/valid-palindrome/
+
+## 11/11/2024
+- [X] https://leetcode.com/problems/merge-sorted-array
