@@ -57,3 +57,7 @@ I want to track what I study/code each day.
 
 ## 11/12/2024
 - [X] https://leetcode.com/problems/count-the-number-of-fair-pairs
+
+
+## 11/13/2024
+- [X] https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/
