@@ -61,3 +61,6 @@ I want to track what I study/code each day.
 
 ## 11/13/2024
 - [X] https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/
+
+## 11/14/2024
+- [X] https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted
