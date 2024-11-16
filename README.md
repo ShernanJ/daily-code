@@ -67,3 +67,6 @@ I want to track what I study/code each day.
 
 ## 11/15/2024
 - [X] https://leetcode.com/problems/minimum-total-distance-traveled
+
+## 11/16/2024
+- [X] https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i
