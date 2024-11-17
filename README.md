@@ -70,6 +70,8 @@ I want to track what I study/code each day.
 
 ## 11/16/2024
 - [X] https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i
+- [X] https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
+- [X] https://leetcode.com/problems/implement-stack-using-queues/
 
 ## 11/17/2024
 - [X] https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k
