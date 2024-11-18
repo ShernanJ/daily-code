@@ -75,3 +75,4 @@ I want to track what I study/code each day.
 
 ## 11/17/2024
 - [X] https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k
+- [X] https://leetcode.com/problems/defuse-the-bomb/
