@@ -79,3 +79,6 @@ I want to track what I study/code each day.
 
 ## 11/18/2024
 - [X] https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k
+
+## 11/19/2024
+- [X] https://leetcode.com/problems/take-k-of-each-character-from-left-and-right
