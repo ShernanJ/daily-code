@@ -85,3 +85,6 @@ I want to track what I study/code each day.
 
 ## 11/20/2024
 - [X] https://leetcode.com/problems/3sum/
+
+## 11/21/2024
+- [X] https://leetcode.com/problems/add-two-numbers
