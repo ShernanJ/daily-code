@@ -88,3 +88,6 @@ I want to track what I study/code each day.
 
 ## 11/21/2024
 - [X] https://leetcode.com/problems/add-two-numbers
+
+## 11/22/2024
+- [X] https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/
