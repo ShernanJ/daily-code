@@ -94,3 +94,6 @@ I want to track what I study/code each day.
 
 ## 11/23/2024
 - [X] https://leetcode.com/problems/maximum-matrix-sum
+
+## 11/24/2024
+- [X] https://leetcode.com/problems/length-of-last-word
