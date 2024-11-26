@@ -100,3 +100,6 @@ I want to track what I study/code each day.
 
 ## 11/25/2024
 - [X] https://leetcode.com/problems/roman-to-integer/
+
+## 11/26/2024
+- [X] https://leetcode.com/problems/find-champion-ii/
