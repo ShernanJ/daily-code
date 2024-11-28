@@ -106,3 +106,6 @@ I want to track what I study/code each day.
 
 ## 11/27/2024
 - [X] https://leetcode.com/problems/zigzag-conversion
+
+## 11/28/2024
+- [X] https://leetcode.com/problems/longest-common-prefix
