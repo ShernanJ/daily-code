@@ -111,4 +111,7 @@ I want to track what I study/code each day.
 - [X] https://leetcode.com/problems/longest-common-prefix/
 
 ## 11/29/2024
-- [X] # https://leetcode.com/problems/valid-arrangement-of-pairs/
+- [X] https://leetcode.com/problems/valid-arrangement-of-pairs/
+
+## 11/30/2024
+- [X] https://leetcode.com/problems/check-if-n-and-its-double-exist
