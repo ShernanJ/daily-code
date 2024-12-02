@@ -115,3 +115,6 @@ I want to track what I study/code each day.
 
 ## 11/30/2024
 - [X] https://leetcode.com/problems/check-if-n-and-its-double-exist
+
+## 12/01/2024
+- [X] https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence
