@@ -1,4 +1,4 @@
-# No Skip November
+# Daily Code
 
 I want to track what I study/code each day.
 
