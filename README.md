@@ -124,3 +124,6 @@ I want to track what I study/code each day.
 
 ## 12/03/2024
 - [X] https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/
+
+## 12/04/2024
+- [X] https://leetcode.com/problems/first-bad-version/
