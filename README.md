@@ -127,3 +127,6 @@ I want to track what I study/code each day.
 
 ## 12/04/2024
 - [X] https://leetcode.com/problems/first-bad-version/
+
+## 12/05/2024
+- [X] https://leetcode.com/problems/move-pieces-to-obtain-a-string/
