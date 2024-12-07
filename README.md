@@ -130,3 +130,6 @@ I want to track what I study/code each day.
 
 ## 12/05/2024
 - [X] https://leetcode.com/problems/move-pieces-to-obtain-a-string/
+
+## 12/06/2024
+- [X] https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/
