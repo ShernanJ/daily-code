@@ -136,3 +136,6 @@ I want to track what I study/code each day.
 
 ## 12/07/2024
 - [X] https://leetcode.com/problems/two-best-non-overlapping-events
+
+## 12/08/2024
+- [X] https://leetcode.com/problems/climbing-stairs
