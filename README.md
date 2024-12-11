@@ -2,6 +2,11 @@
 
 I want to track what I study/code each day.
 
+<a href="#november-2024">November 2024</a><br/>
+<a href="#december-2024">December 2024</a><br/>
+
+<h1 id="november-2024"> November 2024 </h1>
+
 ## 11/01/2024
 
 - Studied Leetcode questions
@@ -116,6 +121,9 @@ I want to track what I study/code each day.
 ## 11/30/2024
 - [X] https://leetcode.com/problems/check-if-n-and-its-double-exist
 
+
+<h1 id="december-2024"> December 2024 </h1>
+
 ## 12/01/2024
 - [X] https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence
 
@@ -145,3 +153,6 @@ I want to track what I study/code each day.
 
 ## 12/10/2024
 - [X] https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i
+
+## 12/11/2024
+- [X] https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/
