@@ -156,3 +156,6 @@ I want to track what I study/code each day.
 
 ## 12/11/2024
 - [X] https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/
+
+## 12/12/2024
+- [X] https://leetcode.com/problems/take-gifts-from-the-richest-pile/
